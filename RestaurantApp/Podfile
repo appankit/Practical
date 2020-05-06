@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RestaurantApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+	pod 'MXPagerView'
+	pod 'SDWebImage', '~> 5.0'
+    pod 'HMSegmentedControl'
+    pod 'SVProgressHUD'
+    pod 'Alamofire', '~> 4.8.2'
+    pod 'SQLite.swift'
+  # Pods for RestaurantApp
+
+  target 'RestaurantAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'RestaurantAppUITests' do
+    # Pods for testing
+  end
+
+end

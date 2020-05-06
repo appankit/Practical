@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.8.2)
+  - HMSegmentedControl (1.5.5)
+  - MXPagerView (1.0.0)
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - HMSegmentedControl
+  - MXPagerView
+  - SDWebImage (~> 5.0)
+  - SQLite.swift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HMSegmentedControl
+    - MXPagerView
+    - SDWebImage
+    - SQLite.swift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+  MXPagerView: 8ed225e850a432906357ff399d30b9d34ba654c0
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: ff26b9594e568ae4b4a18a7b939a33b7cbca01fd
+
+COCOAPODS: 1.9.1
